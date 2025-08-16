@@ -41,9 +41,7 @@ ENV/
 data/*.csv
 data/*.zip
 
-# Model Outputs (optional – include if models are not to be committed)
-models/*.pkl
-models/*.joblib
+
 
 # Logs
 *.log
